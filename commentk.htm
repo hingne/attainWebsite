@@ -1,0 +1,107 @@
+<HTML>
+<head>
+<TITLE>Send Commnets</title>
+<style type="text/css">
+<!--
+a{text-decoration:none;}
+-->
+</style>
+</head>
+
+<script language="javascript">
+	function validateSave()
+	{
+		if(document.frmRegister.name.value=="")
+		{
+			alert("Please enter a valid name!")
+			document.frmRegister.name.focus();
+			return false;
+		}
+		var regxEmail= /\w+[\w,\d,_,\.]+@[\w,\d,_]+\.[\w,\d,_]/;
+		if(!regxEmail.test(document.frmRegister.email.value))
+		{
+			alert('Please enter a valid email address');
+			document.frmRegister.email.focus();
+			return false;
+		}
+		if(document.frmRegister.address.value=="")
+		{
+			alert("Please enter a valid address!")
+			document.frmRegister.address.focus();
+			return false;
+		}
+		if(document.frmRegister.phone.value=="" || isNaN(document.frmRegister.phone.value)) 
+		{
+			alert("Please enter a valid phone number!");
+			document.frmRegister.phone.focus();
+			return false;
+		}
+		if(document.frmRegister.comments.value=="")
+		{
+			alert("Please enter a valid comments!")
+			document.frmRegister.comments.focus();
+			return false;
+		}
+	}
+</script>
+<BODY BGCOLOR="#FFFFFF" TOPMARGIN="0" LEFTMARGIN="3" LINK="#CCFFFF" VLINK="#FFFFFF" ALINK="#FFFFFF">
+<form name="frmRegister" method=post action='mailcommentk.php' onSubmit='return validateSave()'>
+<bR><br><br>
+  <table width="170" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td height="20" align="center"></FONT></FONT><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FF0000" size="2">Enter
+    your details<br>
+    </font></b></td>
+    </tr>
+       <FONT COLOR="#330066">
+    <tr> 
+      <td height="20" align="center"> 
+        <input name="name" type="text" class="textbox" id="Name" value="name" size="30">
+      </td>
+    </tr>
+    <tr> 
+      <td height="7"><img src="allpix/main/trans.gif" width="1" height="5"></td>
+    </tr>
+    <tr> 
+      <td align="center"> 
+        <input name="email" type="text" class="textbox" id="email2" value="e-mail " size="30">
+      </td>
+    </tr>
+    <tr> 
+      <td><img src="allpix/main/trans.gif" width="1" height="5"></td>
+    </tr>
+    <tr> 
+      <td align="center"> 
+        <textarea name="address" cols="23" rows="3" wrap="VIRTUAL" id="linquiries">address</textarea>
+      </td>
+    </tr>
+    <tr> 
+      <td height="7"><img src="allpix/main/trans.gif" width="1" height="5"></td>
+    </tr>
+    <tr> 
+      <td align="center"> 
+        <input name="phone" type="text" class="textbox" id="phone" value="phone " size="30">
+      </td>
+    </tr>
+    <tr> 
+      <td><img src="allpix/main/trans.gif" width="1" height="5"></td>
+    </tr>
+    <tr> 
+      <td align="center"> 
+        <textarea name="comments" cols="23" rows="3" wrap="VIRTUAL" id="linquiries">comments</textarea>
+      </td>
+    </tr>
+    <tr> 
+      <td align="center">&nbsp;</td>
+    </tr>
+  </table>
+  <FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="1">
+  <br>
+  <br>
+  <br>
+  <div align="center">
+    <input type=submit>
+  </div>
+</form>
+</body>
+</HTML>

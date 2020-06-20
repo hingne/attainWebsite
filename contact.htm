@@ -1,0 +1,323 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Atoz Contractors</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="images/css.css" rel="stylesheet" type="text/css">
+<script language="javascript">
+function checkEmailAddress(field) {
+var trim_Qemail=Trim(field.value);
+var goodEmail = trim_Qemail.match(/^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/);
+if (field.value.length <= 50)
+  {
+    if(trim_Qemail=='')
+                {return true;}
+    else
+    {
+        if (goodEmail)
+        {
+           return true;
+        }
+        else
+        {
+           alert('Please enter a valid e-mail address.')
+           field.focus()
+           field.select()
+           return false;
+           }
+      }
+    }
+    else
+        {
+            alert('The length of your email address is limited to 50 characters.');
+            return false;
+        }
+}
+
+
+function Trim(s)
+    {
+        var trimmed="";
+        var leading = true;
+        var trailing = true;
+
+        // strip leading spaces
+        for(var i = 0; i < s.length; i++)
+        {
+            var c = s.charAt(i);
+            if (c == ' ')
+            {
+                if (leading==false)
+                {
+                    trimmed=trimmed+c;
+                }
+            }
+            else
+            {
+                leading=false;
+                trimmed=trimmed+c;
+            }
+        }
+
+        // strip trailing spaces
+        for (var i = trimmed.length-1; i>0; i--)
+        {
+            var c = trimmed.charAt(i);
+            if (c != " ")
+            {
+                return trimmed;
+            }
+            else
+            {
+                trimmed=trimmed.substr(0,trimmed.length-1);
+            }
+        }
+
+        return trimmed;
+    }
+
+function reSubmit1()
+{
+
+if(Trim(document.fhoroscope.firstname.value)==""){
+	alert("Please Enter Your First Name.");
+	return false;
+}
+
+if(Trim(document.fhoroscope.email.value)==""){
+	alert("Please Enter Your Valid Email Address.");
+	return false;
+}
+
+if (checkEmailAddress(document.fhoroscope.email)==false)
+{
+	return false;
+}
+
+if(Trim(document.fhoroscope.address.value)==""){
+	alert("Please Enter Your Address.");
+	return false;
+}
+
+if(Trim(document.fhoroscope.phone.value)==""){
+	alert("Please Enter Your Phone.");
+	return false;
+}
+
+if(Trim(document.fhoroscope.comment.value)==""){
+	alert("Please Enter Your Comment.");
+	return false;
+}
+
+document.forms[0].submit();
+
+}
+</script>
+</head>
+
+<body bgcolor="#333333" link="#000000" vlink="#FFFFFF" alink="#003366" onLoad="MM_preloadImages('images/menu_02a.jpg','images/menu_04a.jpg','images/menu_06a.jpg','images/faq.jpg','images/menu_10a.jpg')">
+<table width="765" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td width="181" background="images/top1-bg.gif">&nbsp;</td>
+    <td width="589" background="images/top1-bg.gif">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#105d91">
+    <td colspan="2"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="770" height="79">
+        <param name="movie" value="images/top.swf">
+        <param name="quality" value="high">
+        <embed src="images/top.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="770" height="79"></embed></object></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/top2.jpg" width="770" height="11"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/top3.jpg" width="770" height="40"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="13%"><table width="100" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="images/menu_01.jpg" width="182" height="4"></td>
+              </tr>
+              <tr>
+                <td><a href="about.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image38','','images/menu_02a.jpg',1)"><img src="images/menu_02.jpg" name="Image38" width="182" height="9" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><img src="images/menu_03.jpg" width="182" height="11"></td>
+              </tr>
+              <tr>
+                <td><a href="services.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image43','','images/menu_04a.jpg',1)"><img src="images/menu_04.jpg" name="Image43" width="182" height="11" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><img src="images/menu_05.jpg" width="182" height="15"></td>
+              </tr>
+              <tr>
+                <td><a href="clients.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image42','','images/menu_06a.jpg',1)"><img src="images/menu_06.jpg" name="Image42" width="182" height="10" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><img src="images/menu_07.jpg" width="182" height="16"></td>
+              </tr>
+              <tr>
+                <td><a href="faqs.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image40','','images/faq.jpg',1)"><img src="images/menu_08.jpg" name="Image40" width="182" height="10" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><img src="images/menu_09.jpg" width="182" height="15"></td>
+              </tr>
+              <tr>
+                <td><a href="contact.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image41','','images/menu_10a.jpg',1)"><img src="images/menu_10.jpg" name="Image41" width="182" height="8" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><img src="images/menu_11.jpg" width="182" height="24"></td>
+              </tr>
+            </table></td>
+          <td width="87%"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="588" height="134">
+              <param name="movie" value="images/main.swf">
+              <param name="quality" value="high">
+              <embed src="images/main.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="588" height="134"></embed></object></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr background="images/line.jpg">
+    <td colspan="2"><img src="images/line.jpg" width="770" height="12"></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="23%" rowspan="2" valign="top"><table width="100" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top"><div align="center">
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="167" height="132">
+                      <param name="movie" value="images/gallery.swf">
+                      <param name="quality" value="high">
+                      <embed src="images/gallery.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="167" height="132"></embed></object>
+                  </div></td>
+              </tr>
+              <tr>
+                <td><img src="images/blank.gif" width="180" height="1"></td>
+              </tr>
+            </table></td>
+          <td width="0%" rowspan="2" bgcolor="#000000"><img src="images/blank.gif" width="1" height="1"></td>
+          <td width="77%" bgcolor="#FFFFFF"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="2">
+              <tr>
+                <td width="100%" height="155" valign="top" class="link1"><div align="justify"><img src="images/contact.gif" width="208" height="29"><font color="#000000" class="text-1">
+                    <br>
+                    </font>
+                    <form name="fhoroscope" method="post" action="sendcontact.asp">
+                      <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr> 
+                          <td height="22" colspan="2" align="center"><div align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FF6600" size="2">Enter 
+                              your details</font><font face="Verdana, Arial, Helvetica, sans-serif" color="#FF0000" size="2"><br>
+                              </font></b></div></td>
+                        </tr>
+                        <tr> 
+                          <td width="180" height="20"> <div align="right"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif">Name 
+                              : </font></div></td>
+                          <td width="162" align="center"> <div align="left"><font color="#330066" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                              <input name="name" type="text" class="textbox" id="name" size="30">
+                              </font></div></td>
+                        </tr>
+                        <tr> 
+                          <td height="7" colspan="2"><div align="right"><font color="#330066" size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="allpix/main/trans.gif" width="1" height="5"></font></div></td>
+                        </tr>
+                        <tr> 
+                          <td> <div align="right"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif">Email 
+                              :</font></div></td>
+                          <td align="center"> <div align="left"><font color="#330066" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                              <input name="email" type="text" class="textbox" id="email" size="30">
+                              </font></div></td>
+                        </tr>
+                        <tr> 
+                          <td colspan="2"><div align="right"><font color="#330066" size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="allpix/main/trans.gif" width="1" height="5"></font></div></td>
+                        </tr>
+                        <tr> 
+                          <td align="center"> <div align="right"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif">Address 
+                              :</font></div></td>
+                          <td align="center"><div align="left"><font color="#330066" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                              <textarea name="address" cols="23" rows="3" wrap="VIRTUAL" id="textarea"></textarea>
+                              </font></div></td>
+                        </tr>
+                        <tr> 
+                          <td height="5" colspan="2"><div align="right"><font color="#330066" size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="allpix/main/trans.gif" width="1" height="5"></font></div></td>
+                        </tr>
+                        <tr> 
+                          <td> <div align="right"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif">Phone 
+                              :&nbsp; </font></div></td>
+                          <td align="center"> <div align="left"><font color="#330066" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                              <input name="phone" type="text" class="textbox" id="phone2" size="30">
+                              </font></div></td>
+                        </tr>
+                        <tr> 
+                          <td colspan="2"><div align="right"><font color="#330066" size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="allpix/main/trans.gif" width="1" height="5"></font></div></td>
+                        </tr>
+                        <tr> 
+                          <td> <div align="right"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Comments 
+                              :</font></div></td>
+                          <td align="center"> <div align="left"><font color="#330066" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                              <textarea name="comments" cols="23" rows="3" wrap="VIRTUAL" id="textarea3"></textarea>
+                              </font></div></td>
+                        </tr>
+                        <tr> 
+                          <td colspan="2" align="center"><div align="right"><font color="#330066"><img src="allpix/main/trans.gif" width="1" height="5"></font></div></td>
+                        </tr>
+                        <tr> 
+                          <td colspan="2" align="center"><div align="center"><font color="#330066"> 
+                              <INPUT type=button value=Submit onClick="reSubmit1()">
+                              </font></div></td>
+                        </tr>
+                        <tr> 
+                          <td colspan="2" align="center"> <div align="center"> 
+                              <p><font size="2" face="Arial, Helvetica, sans-serif" class="text1"><strong><br>
+                                </strong></font><font size="2" face="Arial, Helvetica, sans-serif" class="text1"><strong><font color="#FF6600">A 
+                                to Z Contractors</font></strong><br>
+                                Opp. Elavia Building, Manmala Tank Road,<br>
+                                Matunga (West), Mumbai 400 016<br>
+                                <br>
+                                <a href="mailto:admin@atozcontractors.net">admin@atozcontractors.net</a><br>
+                                <br>
+                                Kiran W. Patait : 20638296 / 9322273746</font></p>
+                            </div></td>
+                        </tr>
+                      </table>
+                    </form>
+                    <font color="#000000" class="text-1"><br>
+                    <br>
+                    </font></div></td>
+              </tr>
+              <tr bgcolor="#000000">
+                <td bgcolor="#FFFFFF" class="link1"><img src="images/blank.gif" width="1" height="1"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td height="2" bgcolor="#FFFFFF"><img src="images/blank.gif" width="1" height="1"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#FFFFFF"><img src="images/bottom.jpg" width="274" height="29"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="56%" height="28" align="center" valign="middle" background="images/bottom-v-bg.jpg" class="text-1"><div align="center"><a href="about.htm">About
+              Us </a>| <a href="services.htm">Services</a> | <a href="clients.htm">Clients</a>
+              | <a href="tips.htm">Tips</a> | <a href="faqs.htm">Faq's</a> | <a href="contact.htm">Contact
+              Us </a></div></td>
+          <td background="images/bottom-bg-1.jpg" class="text-1"><div align="center">Copyright
+              &copy; 2005-2006 A to Z Contractors</div></td>
+        </tr>
+        <tr>
+          <td height="9"><img src="images/bottom-line.jpg" width="481" height="9"></td>
+          <td width="44%" background="images/bottom-bg-1a.jpg" class="text-1"><img src="images/bottom-bg-1a.jpg" width="10" height="5"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td background="images/bottom-bg.jpg">&nbsp;</td>
+    <td background="images/bottom-bg.jpg"><div align="right"><img src="images/attain.gif" width="150" height="11"></div></td>
+  </tr>
+</table>
+</body>
+</html>
