@@ -13,9 +13,7 @@ BODY {
 	SCROLLBAR-3DLIGHT-COLOR: #F3F3F3; SCROLLBAR-ARROW-COLOR: #606d79; SCROLLBAR-DARKSHADOW-COLOR: #F3F3F3; SCROLLBAR-FACE-COLOR: #CCCCCC; SCROLLBAR-HIGHLIGHT-COLOR: #F3F3F3; SCROLLBAR-SHADOW-COLOR: #F3F3F3; SCROLLBAR-TRACK-COLOR: #F3F3F3
 }
       body {
-  background-image: url('https://lh3.googleusercontent.com/ivxHzfpoAyYgypzvcZbjG9yICUf3QHfadZvfFV7H6Y6LN7d_ODsxwfPXvcuBad5quVUtbDMvUJgOKLe1l8hdltOvjRoobkZLTueK-wUQBmVLteV8OJP3oST0zCWEi92Fr_-q5Hyt9JwZo7LrsUuBRwbP3j3W4Z-LvhtScBUBK9a1wC8kkxHIDfqnn5kwEUUIsl8iR6_LwUAORboulDAva16XGjWCc5IHNUCbx2dRvn7v-6HDpdTOcYqdb9xqWnhTbUxQX7it_G1dHSieOM_CKOVoisirO6fmIzeUvqTiCgzBvuogNRooNxgMq0c_ifmvbaNNhAmnNrxFDOup_BcGIclEzUQG5eF62lLonnqV3kUqAtl6P6ac2qXO9o0AZ_wPAjgKrvXsmwkZjVbtJO7-ubziel1bYfadJT17YYr-yP58xTNsFrtDrXO0odx4IMsCT1NpaEMJbE9vsyaOvToCL1zFL-53grMe69TwWN3i9SfJkrjSzeH386z4rD9gCYsqLRKWeW4sNQwYcpIruJgPFnQsheuXLpzGSeYWLj4qRn-kumnlt6JV1dp__ig9XUdychmlqvNE7Y8tUYFVtPbToUBpyA_VXVUWW5GxdTXaCInM66UxqsQe05ioonQ9tN7_i2TzkfUnl_LoJlSEuaKyuAUVuP-mHh-W7PlXku6A2DdcvpBqowyJafXKvWrhhww=w1758-h920-no?authuser=0');
-          background-repeat: no-repeat;
-background-size: 100% 100%;
+  background-size: 100% 100%;
 }
 </style> <style type="text/css">
 <!--
@@ -47,229 +45,237 @@ function MM_swapImage() { //v3.0
 }
 //-->
 </script> </head>
-  <body onload="MM_preloadImages('images/a1.gif')" style="                color: black; background-color: white;"
+  <body onload="MM_preloadImages('images/a1.gif')" style="                     color: black; background-color: white;"
 
     topmargin="0" marginwidth="0" marginheight="0" leftmargin="0">
-    <div style="text-align: left;"><img src="images/maincolorssmall.gif" height="8"
+    <div style="text-align: center;"><img src="images/maincolorssmall.gif" height="8"
 
         width="744"><br>
       <span class="bodytext"><font face="Verdana, Arial, Helvetica, sans-serif"
 
           size="2"><font color="#330066">Just my thoughts<br>
             by Aditya Hingne</font></font></span> </div>
-    <div style="text-align: left;">
-      <table style="width: 1170px; height: 2141px; text-align: left; margin-left: 0px; margin-right: auto;"
-
-        cellspacing="0" cellpadding="0" border="0">
+    <div style="text-align: center;">
+      <table cellspacing="0" cellpadding="5" border="0">
         <tbody>
           <tr>
-            <td valign="TOP">
-              <div style="text-align: center;"><br>
-              </div>
-              <span class="bodytext"><a><img alt="Previous Pages" src="images/hand.gif"
+            <td valign="TOP"> <br>
+              <span class="bodytext"><a href="index.htm"><img alt="Previous Pages"
 
-                    height="24" width="36" border="0"></a><font face="Verdana, Arial, Helvetica, sans-serif"
+                    src="images/hand.gif" height="24" width="36" border="0"></a><font
 
-                  size="2"><font color="#330066">Back</font></font></span><font
+                  face="Verdana, Arial, Helvetica, sans-serif" size="2"><font color="#330066">Back</font></font></span><font
 
                 face="Verdana, Arial, Helvetica, sans-serif" size="2"><br>
                 <br>
-                <table cellspacing="0" cellpadding="0"
+                <div style="text-align: center;">
+                  <table style="width: 1335px; height: 917px;" cellspacing="0" cellpadding="4"
 
-                  border="1" align="CENTER">
-                  <tbody>
-                    <tr>
-                      <td> <br>
-                      </td>
-                      <td>
-                        <div style="text-align: center;"><strong><font face="Verdana, Arial, Helvetica, sans-serif"
+                    border="1" align="CENTER">
+                    <tbody>
+                      <tr>
+                        <td> <br>
+                        </td>
+                        <td>
+                          <div style="text-align: center;"><strong><font face="Verdana, Arial, Helvetica, sans-serif"
 
-                              size="2" color="#330066">Walking in Someone’s Skin</font></strong></div>
-                        <div style="text-align: center;"><strong><font face="Verdana, Arial, Helvetica, sans-serif"
+                                size="2" color="#330066">Walking in Someone’s
+                                Skin</font></strong></div>
+                          <div style="text-align: center;"><strong><font face="Verdana, Arial, Helvetica, sans-serif"
 
-                              size="2" color="#330066"><br>
-                            </font></strong></div>
-                        <div style="text-align: center;"><font face="Verdana, Arial, Helvetica, sans-serif"
+                                size="2" color="#330066"><br>
+                              </font></strong></div>
+                          <div style="text-align: center;"><font face="Verdana, Arial, Helvetica, sans-serif"
 
-                            size="2" color="#330066">“Understanding comes
-                            through communication, and through understanding we
-                            find the way to peace.” - Ralph C. Smedley. In To
-                            Kill a Mockingbird by Harper Lee, the narrative
-                            follows Scout, a young girl who is learning the ways
-                            of society. Her father, Atticus, makes her aware of
-                            many incidents of prejudice in their town of
-                            Maycomb--from the prejudice that surrounds Boo
-                            Radley the neighborhood mystery to the kind of
-                            prejudice that is behind Bob Ewell’s accusations
-                            against the innocent and good-hearted Tom Robinson.
-                            Along with her brother Jem and best friend Dill,
-                            Scout begins to experience the effects of society’s
-                            problems simultaneously changing people’s tolerance.
-                            Atticus communicates with Scout that only by
-                            understanding someone can make her stop prejudging
-                            them. Harper Lee is conveying the message that the
-                            problem of prejudice causes intolerance of change,
-                            but understanding can remove this prejudice.</font></div>
-                        <font face="Verdana, Arial, Helvetica, sans-serif" size="2"
+                              size="2" color="#330066">“Understanding comes
+                              through communication, and through understanding
+                              we find the way to peace.” - Ralph C. Smedley. In
+                              To Kill a Mockingbird by Harper Lee, the narrative
+                              follows Scout, a young girl who is learning the
+                              ways of society. Her father, Atticus, makes her
+                              aware of many incidents of prejudice in their town
+                              of Maycomb--from the prejudice that surrounds Boo
+                              Radley the neighborhood mystery to the kind of
+                              prejudice that is behind Bob Ewell’s accusations
+                              against the innocent and good-hearted Tom
+                              Robinson. Along with her brother Jem and best
+                              friend Dill, Scout begins to experience the
+                              effects of society’s problems simultaneously
+                              changing people’s tolerance. Atticus communicates
+                              with Scout that only by understanding someone can
+                              make her stop prejudging them. Harper Lee is
+                              conveying the message that the problem of
+                              prejudice causes intolerance of change, but
+                              understanding can remove this prejudice.</font></div>
+                          <font face="Verdana, Arial, Helvetica, sans-serif" size="2"
 
-                          color="#330066"> &nbsp;&nbsp;&nbsp; <br>
-                          The problem of prejudice is prevalent in Maycomb and
-                          is portrayed by its segregated setting. The
-                          characters’ locations visualise their perception.
-                          African Americans undoubtedly face clear prejudice in
-                          many situations. An example is the courthouse: “The
-                          colored balcony ran along three walls of the courtroom
-                          like a second-story veranda and from it we could see
-                          everything” (164).&nbsp; This illustrates the view of
-                          the courthouse from the eyes of the African Americans.
-                          Harper Lee says the African Americans, Jem and Scout
-                          can see everything. They can see the truth and justice
-                          being carried out by Atticus. By contrast, the white
-                          people who have the best seats, are blind to the
-                          truth. Atticus says that they will lose this case even
-                          before trying because he knows that prejudice makes
-                          those people blind and so the truth can never be
-                          attainted. Those who are in power and do not see
-                          prejudice blindly support prejudging others. Those who
-                          face prejudice and its wrath realize that not even
-                          justice can put a stop to it.<br>
-                          <br>
-                          &nbsp;&nbsp;&nbsp; Intolerance, the effect of
-                          prejudice, is demonstrated multiple times throughout
-                          in its irony. This irony lead to the realization to
-                          the main character, Scout, when her teacher, Miss
-                          Gates, says that in the United States of America they
-                          do not believe in persecution which is born from
-                          prejudice and then Miss Gates says she cannot
-                          understand why Hitler does not like hard working Jews
-                          (245). It is ironic that Miss Gates feel sympathetic
-                          towards Jews, who face prejudice and persecution just
-                          like the African Americans, but is completely blind to
-                          the treatment of African Americans. She feels more
-                          sympathetic towards white Jews living in another
-                          continent but ignores the African Americans being
-                          persecuted right in the town she lives in. Since
-                          Atticus taught her not to be prejudiced, Scout is
-                          confused by Miss Gates’ hypocrisy and she cannot
-                          understand her lack of sympathy towards Black people.
-                          She is confused because she cannot understand why
-                          discrimination makes someone be a hypocrite and choose
-                          who they should feel empathy or intolerance for.
-                          People like Aunt Alexandra also let discrimination
-                          force who they should feel empathy for. Aunt Alexandra
-                          makes ironic comments about heredity. Scout complains,
-                          “I never understood her preoccupation with heredity…
-                          Aunt Alexandra was of the opinion, obliquely
-                          expressed, that the longer a family had been squatting
-                          on one patch of land the finer he was” (130).
-                          Character is what makes a person fine, but Aunt
-                          Alexandra represents the town in saying that it’s your
-                          social class and family history that decides how fine
-                          you are. So, she would feel intolerant towards African
-                          Americans because they have not been in this country
-                          for as long as everybody else, but it was in fact
-                          white people who brought them to the United States in
-                          the first place for their own selfish purposes.
-                          However, she is intolerant of this truth because it
-                          makes her feel empathy towards African Americans and
-                          she, along with the rest of the town, do not feel
-                          empathy against those who are discriminated.
-                          Intolerance makes people blind to the truth and
-                          intolerant of others.<br>
-                          &nbsp;&nbsp;&nbsp; A solution for eradicating the
-                          effects of prejudice comes through being empathetic
-                          and understanding, which is represented in the story’s
-                          aphorism. Atticus gives this aphorism to Scout when
-                          she is complaining about Miss Caroline: “You never
-                          really understand a person until you consider things
-                          from his point of&nbsp; view… until you climb into his
-                          skin and walk around in it” (30). Harper Lee gives
-                          this aphorism because to understand someone one cannot
-                          just see things from his point of view. One has to
-                          become that person in his or her mind and truly
-                          understand what they are thinking. Atticus teaches
-                          that killing innocence is wrong to his kids because
-                          they are children. Children are innocent and thus have
-                          a better chance of understanding. This is proven when
-                          Atticus says, “‘Hmp, maybe we need a police force of
-                          children… you children last night made Walter
-                          Cunningham stand in my shoes for a minute. That was
-                          enough’” (157). In this aphorism Atticus talks about
-                          how his children saved him last night. By talking to
-                          Walter Cunningham, Scout was able to make him think
-                          less like someone in a mob and more like a father. By
-                          standing in Atticus’ shoes of a father he was able to
-                          understand why Atticus was acting the way he was in
-                          that situation. He realized it was wrong of him to do
-                          anything with children present. Even though it was
-                          only for a minute he began to feel empathy towards
-                          Atticus and prevented the mob from hurting him. He
-                          calls it a police force of children because they have
-                          the ability others more understandable and save people
-                          from prejudice. It can’t be the adults because the
-                          they just don’t accept change. They don’t accept
-                          change because they are prejudiced and intolerant of
-                          this idea. They are even prejudiced towards those who
-                          are innocent. In this novel the idea that prejudice
-                          kills innocence is brought up numerous times. When
-                          Atticus says, “‘ Shoot all the bluejays you want, if
-                          you can hit ‘em, but remember it’s a sin to kill a
-                          mockingbird’” (90) A mockingbird symbolizes innocence
-                          for it does no harm to others, but rather just sings
-                          for them. “To kill a mockingbird” simply means to be
-                          prejudiced towards the innocent. The aphorism calls it
-                          a “sin” because of its harmful effect; intolerance of
-                          differences. Atticus says Jem can shoot bluejays
-                          because those birds represent the prejudiced people in
-                          Maycomb, and when they kill a mockingbird they lack
-                          empathy for those who who are innocent. Atticus is
-                          teaching that being empathetic can make those people
-                          more understanding. Tom Robinson and Boo Radley are
-                          innocent people but are being killed by the prejudice
-                          that surrounds them. This prejudice made Boo Radley be
-                          closed off from this world and this prejudice made Tom
-                          Robinson give up hope in&nbsp; proving his innocence.
-                          This novel proves in its aphorism that only through
-                          understanding can everyone reach harmony.&nbsp; Even
-                          if people have differing opinions the world needs to
-                          learn to be more accepting towards them.<br>
-                          &nbsp;&nbsp;&nbsp; Prejudice gives birth to
-                          intolerance, but this intolerance can be eliminated by
-                          understanding why someone acts the way he does. In
-                          1959, Texan John Howard Griffin proved just this. He
-                          wanted to truly understand what it was like to live as
-                          an African American in the segregated South. He dyed
-                          his skin black and worked in Louisiana, South
-                          Carolina, Georgia, and Mississippi. He truly
-                          understood how strong the prejudice surrounding
-                          African Americans was. He was barely acknowledged and
-                          he discovered that segregation forced African
-                          Americans to do things like walk miles just to use the
-                          bathroom. He not only received verbal abuse but
-                          threats of violence as well. He wrote about this
-                          experience in his book Black Like Me. Griffin became
-                          well known for the cause of racial equality and even
-                          worked with Martin Luther King Jr. If the people in
-                          the world can understand one another, the world can
-                          become more accepting of diversity and lead us to
-                          peace.<br>
-                          <br>
-                          <br>
-                          <em>References:<br>
-                            Lee, Harper. To Kill a Mockingbird. New York :Harper
-                            Perennial Modern Classics, 2006. Print.
-                            “{{Meta.title}}.” <br>
-                            Forbes, Forbes Magazine,
-                            www.forbes.com/quotes/theme/understanding/.<br>
-                            Krznaric, Roman. “Empathy Heroes: 5 People Who
-                            Changed the World By Taking Compassion to the
-                            Extreme.” YES! Magazine, 19 Dec. 2017,<br>
+                            color="#330066"> &nbsp;&nbsp;&nbsp; <br>
+                            The problem of prejudice is prevalent in Maycomb and
+                            is portrayed by its segregated setting. The
+                            characters’ locations visualise their perception.
+                            African Americans undoubtedly face clear prejudice
+                            in many situations. An example is the courthouse:
+                            “The colored balcony ran along three walls of the
+                            courtroom like a second-story veranda and from it we
+                            could see everything” (164).&nbsp; This illustrates
+                            the view of the courthouse from the eyes of the
+                            African Americans. Harper Lee says the African
+                            Americans, Jem and Scout can see everything. They
+                            can see the truth and justice being carried out by
+                            Atticus. By contrast, the white people who have the
+                            best seats, are blind to the truth. Atticus says
+                            that they will lose this case even before trying
+                            because he knows that prejudice makes those people
+                            blind and so the truth can never be attainted. Those
+                            who are in power and do not see prejudice blindly
+                            support prejudging others. Those who face prejudice
+                            and its wrath realize that not even justice can put
+                            a stop to it.<br>
+                            <br>
+                            &nbsp;&nbsp;&nbsp; Intolerance, the effect of
+                            prejudice, is demonstrated multiple times throughout
+                            in its irony. This irony lead to the realization to
+                            the main character, Scout, when her teacher, Miss
+                            Gates, says that in the United States of America
+                            they do not believe in persecution which is born
+                            from prejudice and then Miss Gates says she cannot
+                            understand why Hitler does not like hard working
+                            Jews (245). It is ironic that Miss Gates feel
+                            sympathetic towards Jews, who face prejudice and
+                            persecution just like the African Americans, but is
+                            completely blind to the treatment of African
+                            Americans. She feels more sympathetic towards white
+                            Jews living in another continent but ignores the
+                            African Americans being persecuted right in the town
+                            she lives in. Since Atticus taught her not to be
+                            prejudiced, Scout is confused by Miss Gates’
+                            hypocrisy and she cannot understand her lack of
+                            sympathy towards Black people. She is confused
+                            because she cannot understand why discrimination
+                            makes someone be a hypocrite and choose who they
+                            should feel empathy or intolerance for. People like
+                            Aunt Alexandra also let discrimination force who
+                            they should feel empathy for. Aunt Alexandra makes
+                            ironic comments about heredity. Scout complains, “I
+                            never understood her preoccupation with heredity…
+                            Aunt Alexandra was of the opinion, obliquely
+                            expressed, that the longer a family had been
+                            squatting on one patch of land the finer he was”
+                            (130). Character is what makes a person fine, but
+                            Aunt Alexandra represents the town in saying that
+                            it’s your social class and family history that
+                            decides how fine you are. So, she would feel
+                            intolerant towards African Americans because they
+                            have not been in this country for as long as
+                            everybody else, but it was in fact white people who
+                            brought them to the United States in the first place
+                            for their own selfish purposes. However, she is
+                            intolerant of this truth because it makes her feel
+                            empathy towards African Americans and she, along
+                            with the rest of the town, do not feel empathy
+                            against those who are discriminated. Intolerance
+                            makes people blind to the truth and intolerant of
+                            others.<br>
+                            <br>
+                            &nbsp;&nbsp;&nbsp; A solution for eradicating the
+                            effects of prejudice comes through being empathetic
+                            and understanding, which is represented in the
+                            story’s aphorism. Atticus gives this aphorism to
+                            Scout when she is complaining about Miss Caroline:
+                            “You never really understand a person until you
+                            consider things from his point of&nbsp; view… until
+                            you climb into his skin and walk around in it” (30).
+                            Harper Lee gives this aphorism because to understand
+                            someone one cannot just see things from his point of
+                            view. One has to become that person in his or her
+                            mind and truly understand what they are thinking.
+                            Atticus teaches that killing innocence is wrong to
+                            his kids because they are children. Children are
+                            innocent and thus have a better chance of
+                            understanding. This is proven when Atticus says,
+                            “‘Hmp, maybe we need a police force of children… you
+                            children last night made Walter Cunningham stand in
+                            my shoes for a minute. That was enough’” (157). In
+                            this aphorism Atticus talks about how his children
+                            saved him last night. By talking to Walter
+                            Cunningham, Scout was able to make him think less
+                            like someone in a mob and more like a father. By
+                            standing in Atticus’ shoes of a father he was able
+                            to understand why Atticus was acting the way he was
+                            in that situation. He realized it was wrong of him
+                            to do anything with children present. Even though it
+                            was only for a minute he began to feel empathy
+                            towards Atticus and prevented the mob from hurting
+                            him. He calls it a police force of children because
+                            they have the ability others more understandable and
+                            save people from prejudice. It can’t be the adults
+                            because the they just don’t accept change. They
+                            don’t accept change because they are prejudiced and
+                            intolerant of this idea. They are even prejudiced
+                            towards those who are innocent. In this novel the
+                            idea that prejudice kills innocence is brought up
+                            numerous times. When Atticus says, “‘ Shoot all the
+                            bluejays you want, if you can hit ‘em, but remember
+                            it’s a sin to kill a mockingbird’” (90) A
+                            mockingbird symbolizes innocence for it does no harm
+                            to others, but rather just sings for them. “To kill
+                            a mockingbird” simply means to be prejudiced towards
+                            the innocent. The aphorism calls it a “sin” because
+                            of its harmful effect; intolerance of differences.
+                            Atticus says Jem can shoot bluejays because those
+                            birds represent the prejudiced people in Maycomb,
+                            and when they kill a mockingbird they lack empathy
+                            for those who who are innocent. Atticus is teaching
+                            that being empathetic can make those people more
+                            understanding. Tom Robinson and Boo Radley are
+                            innocent people but are being killed by the
+                            prejudice that surrounds them. This prejudice made
+                            Boo Radley be closed off from this world and this
+                            prejudice made Tom Robinson give up hope in&nbsp;
+                            proving his innocence. This novel proves in its
+                            aphorism that only through understanding can
+                            everyone reach harmony.&nbsp; Even if people have
+                            differing opinions the world needs to learn to be
+                            more accepting towards them.<br>
+                            <br>
+                            &nbsp;&nbsp;&nbsp; Prejudice gives birth to
+                            intolerance, but this intolerance can be eliminated
+                            by understanding why someone acts the way he does.
+                            In 1959, Texan John Howard Griffin proved just this.
+                            He wanted to truly understand what it was like to
+                            live as an African American in the segregated South.
+                            He dyed his skin black and worked in Louisiana,
+                            South Carolina, Georgia, and Mississippi. He truly
+                            understood how strong the prejudice surrounding
+                            African Americans was. He was barely acknowledged
+                            and he discovered that segregation forced African
+                            Americans to do things like walk miles just to use
+                            the bathroom. He not only received verbal abuse but
+                            threats of violence as well. He wrote about this
+                            experience in his book Black Like Me. Griffin became
+                            well known for the cause of racial equality and even
+                            worked with Martin Luther King Jr. If the people in
+                            the world can understand one another, the world can
+                            become more accepting of diversity and lead us to
+                            peace.<br>
+                            <br>
+                            <br>
+                            <em>References:<br>
+                              Lee, Harper. To Kill a Mockingbird. New York
+                              :Harper Perennial Modern Classics, 2006. Print.
+                              “{{Meta.title}}.” <br>
+                              Forbes, Forbes Magazine,
+                              www.forbes.com/quotes/theme/understanding/.<br>
+                              Krznaric, Roman. “Empathy Heroes: 5 People Who
+                              Changed the World By Taking Compassion to the
+                              Extreme.” YES! Magazine, 19 Dec. 2017,<br>
 www.yesmagazine.org/happiness/empathy-heroes-st-francis-john-howard-griffin-patricia-moore.</em><br>
-                        </font><br>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
+                          </font><br>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
               </font><br>
               <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><span
 
@@ -277,13 +283,13 @@ www.yesmagazine.org/happiness/empathy-heroes-st-francis-john-howard-griffin-patr
 
                     size="2"><font color="#330066"><font face="Verdana, Arial, Helvetica, sans-serif"
 
-                        size="2" color="#ffffff"><a href="index.html"><img
+                        size="2" color="#ffffff"><a href="index.html"><img alt="Previous Pages"
 
-                            alt="Previous Pages" src="images/hand.gif" height="24"
+                            src="images/hand.gif" height="24" width="36" border="0"></a><font
 
-                            width="36" border="0"></a><font face="Verdana, Arial, Helvetica, sans-serif"
+                          face="Verdana, Arial, Helvetica, sans-serif" size="2"><font
 
-                          size="2"><font color="#330066">Back</font></font></font></font></font></span><font
+                            color="#330066">Back</font></font></font></font></font></span><font
 
                   face="Verdana, Arial, Helvetica, sans-serif" size="2"></font>
               </font></td>
