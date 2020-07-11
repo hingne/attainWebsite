@@ -1,6 +1,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Just my thoughts</title>
     <meta content="Just my thoughts, from San Diego California," name="">
     <meta content="local, new, website, thoughts, media, news, high school, san diego, california, articles, design, aditya hingne"
@@ -23,13 +24,13 @@ a{text-decoration:none;}
     topmargin="0" marginwidth="0" marginheight="0" leftmargin="0">
     <div align="CENTER"><img src="images/maincolorssmall.gif" height="8"
 
-        width="744"><br>
-      <span class="bodytext"><font face="Verdana, Arial, Helvetica, sans-serif"
+        width="744" style="width:100%;"><br>
+      <span><font face="Verdana, Arial, Helvetica, sans-serif"
 
           size="2"><font color="#330066">Just my thoughts<br>
             by Aditya Hingne</font></font></span></div>
     <br>
-    <span class="bodytext">
+    <span>
       <table boder="1">
         <tbody>
           <tr>
@@ -68,7 +69,7 @@ a{text-decoration:none;}
                     <td bgcolor="#800000"><img src="images/bg_arrow_grey.gif" border="0"></td>
                     <td bgcolor="white"> <b><font face="Verdana, Arial, Helvetica, sans-serif"
 
-                          size="2" color="#330066"> It Is All Up to Fate?</font></b>
+                          size="2" color="#330066"> It Is All Up to Fate</font></b>
                       <font face="Verdana, Arial, Helvetica, sans-serif" size="1"
 
                         color="#330066"> <br>
@@ -93,33 +94,5 @@ a{text-decoration:none;}
     </span>
     <p><br>
     </p>
-    <script language="javascript">
-function NewWindow(url, title, w, h, scroll, resize)
-    {
-        if (scroll==true || scroll=='yes')
-            scroll='yes'; else scroll='no';
-        if (resize==true || resize=='yes')
-            resize=', resizable'; else resize='';
-        var winl = (screen.width - w) / 2;
-        var wint = (screen.height - h) / 2;
-        winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+resize
-        win = window.open(url, title, winprops)
-    }
-
-function display(myimage) {
- html = "<HTML><HEAD><TITLE>Photo</TITLE>" +
-  "</HEAD><BODY LEFTMARGIN=0 " +
-  "MARGINWIDTH=0 TOPMARGIN=0 MARGINHEIGHT=0><CENTER><font face=verdana size=2 color=red><b>Downloading Smile... :)</b><bR><br>" +
-  "<IMG SRC='" + myimage + "' BORDER=0 NAME=image " +
-  "onload='window.resizeTo(document.image.width,document.image.height+75)'></CENTER>" +
-  "</BODY></HTML>";
- popup=window.open
-   ('','image','toolbar=0,location=0,directories=0,menuBar=0,scrollbars=0,resizable=1');
- popup.document.open();
- popup.document.write(html);
- popup.document.close()
- };
-
-</script>
-  </body>
+ </body>
 </html>
