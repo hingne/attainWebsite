@@ -47,416 +47,60 @@ function MM_swapImage() { //v3.0
 }
 //-->
 </script> </head>
-  <body onload="MM_preloadImages('images/a1.gif')" style="                    color: black; background-color: white;"
+  <body onload="MM_preloadImages('images/a1.gif')" style="                              color: black; background-color: white;"
 
     topmargin="0" marginwidth="0" marginheight="0" leftmargin="0">
     <div align="CENTER"><img src="images/maincolorssmall.gif" height="8" width="744"><br>
       <span class="bodytext"><font face="Verdana, Arial, Helvetica, sans-serif"
 
           size="2"><font color="#330066">Just my thoughts<br>
-            by Aditya Hingne</font></font></span> </div>
-    <div align="LEFT">
-      <table height="22" width="774" cellspacing="0" cellpadding="0" border="0">
+            by Aditya Hingne</font></font></span></div><br>
+    <span class="bodytext">
+      <table boder="1">
         <tbody>
           <tr>
-            <td valign="TOP">
-              <br>
-              <table width="443" cellspacing="0" cellpadding="0" border="1" bgcolor="white"
-
-                align="CENTER">
+            <td width="1">
+              <table style="width: 600px;" border="0">
                 <tbody>
                   <tr>
-                    <td>
-                      <table width="100%" cellspacing="0" cellpadding="2" border="0"
-
-                        bgcolor="white">
-                        <tbody>
-                          <tr valign="top" bgcolor="white" align="left">
-                            <td>
-                              <div align="left"><span class="bodytext"><font face="Verdana, Arial, Helvetica, sans-serif"><img
-
-                                      src="images/bg_arrow_grey.gif" style="width: 85px; height: 90px;"
-
-                                      border="0"></font></span></div>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </td>
-                    <td>
-                      <table width="100%" cellspacing="1" cellpadding="0" border="0">
-                        <tbody>
-                          <tr>
-                            <td>
-                              <table width="100%" cellspacing="0" cellpadding="2"
-
-                                border="0" bgcolor="#ffffff">
-                                <tbody>
-                                  <tr valign="top" align="left">
-                                    <td><span class="bodytext"><b><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                            size="2" color="#330066">Walking in
-                                            Someone’s Skin</font></b><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                          size="1"><font size="2" color="#330066"><br>
-                                          </font><font color="#330066"><br>
-                                            “Understanding comes through
-                                            communication, and through
-                                            understanding we find the way to
-                                            peace.” - Ralph C. Smedley. In To
-                                            Kill a Mockingbird by Harper Lee,
-                                            the narrative follows Scout, a young
-                                            girl who is learning the ways of
-                                            society... <br>
-                                            <br>
-                                          </font></font></span><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                        size="2"><b><font size="1"><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                              size="2"><b><font size="1"><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                    size="2"><b><font size="1"><font
-
-                                                          face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                          size="2"><b><font size="1"><font
-
-                                                                face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                                size="2"><b><font
-
-                                                                  size="1">&nbsp;
-                                                                  <img src="images/a2.gif"
-
-                                                                  name="img6" height="11"
-
-                                                                  width="11" border="0"></font></b></font></font></b></font></font></b></font><font
-
-                                                    color="#999999"> </font><font>
-                                                    <a href="One1.htm"><font color="#999999">View
-                                                        more</font></a></font></font></b></font></font></b></font><font
-
-                                        color="#CC0066"><span class="bodytext"></span></font></td>
-                                    <td width="1" bgcolor="#FF9933">
-                                      <div align="left"><span class="bodytext"><font
-
-                                            face="Verdana, Arial, Helvetica, sans-serif"><img
-
-                                              src="images/bg_arrow_grey.gif" height="1"
-
-                                              width="1" border="0"></font></span></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-              
-            </td>
-            <td valign="TOP">
-              <br>
-              <table width="443" cellspacing="0" cellpadding="0" border="1" bgcolor="white"
-
-                align="CENTER">
-                <tbody>
-                  <tr>
-                    <td>
-                      <table width="100%" cellspacing="0" cellpadding="2" border="0"
-
-                        bgcolor="white">
-                        <tbody>
-                          <tr valign="top" bgcolor="white" align="left">
-                            <td>
-                              <div align="left"><span class="bodytext"><font face="Verdana, Arial, Helvetica, sans-serif"><img
-
-                                      src="images/bg_arrow_grey.gif" style="width: 85px; height: 90px;"
-
-                                      border="0"></font></span></div>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </td>
-                    <td width="354">
-                      <table width="100%" cellspacing="1" cellpadding="0" border="0">
-                        <tbody>
-                          <tr>
-                            <td>
-                              <table width="100%" cellspacing="0" cellpadding="2"
-
-                                border="0" bgcolor="#ffffff">
-                                <tbody>
-                                  <tr valign="top" align="left">
-                                    <td><span class="bodytext"><b><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                            size="2" color="#330066">Walking in
-                                            Someone’s Skin</font></b><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                          size="1"><font size="2" color="#330066"><br>
-                                          </font><font color="#330066"><br>
-                                            “Understanding comes through
-                                            communication, and through
-                                            understanding we find the way to
-                                            peace.” - Ralph C. Smedley. In To
-                                            Kill a Mockingbird by Harper Lee,
-                                            the narrative follows Scout, a young
-                                            girl who is learning the ways of
-                                            society... <br>
-                                            <br>
-                                          </font></font></span><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                        size="2"><b><font size="1"><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                              size="2"><b><font size="1"><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                    size="2"><b><font size="1"><font
-
-                                                          face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                          size="2"><b><font size="1"><font
-
-                                                                face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                                size="2"><b><font
-
-                                                                  size="1">&nbsp;
-                                                                  <img src="images/a2.gif"
-
-                                                                  name="img6" height="11"
-
-                                                                  width="11" border="0"></font></b></font></font></b></font></font></b></font><font
-
-                                                    color="#999999"> </font><font>
-                                                    <a href="One1.htm"><font color="#999999">View
-                                                        more</font></a></font></font></b></font></font></b></font><font
-
-                                        color="#CC0066"><span class="bodytext"></span></font></td>
-                                    <td width="1" bgcolor="#FF9933">
-                                      <div align="left"><span class="bodytext"><font
-
-                                            face="Verdana, Arial, Helvetica, sans-serif"><img
-
-                                              src="images/bg_arrow_grey.gif" height="1"
-
-                                              width="1" border="0"></font></span></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
+                    <td bgcolor="orange"><img src="images/bg_arrow_grey.gif" border="0"></td>
+                    
+                    <td bgcolor="white">
+                      <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#330066">Walking in Someone’s Skin</font></b>
+						<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#330066">
+							<br><br>
+							"Understanding comes through communication, and through understanding we find the way to peace." - Ralph C. Smedley.&nbsp;
+							<br><br>
+							<b>&nbsp;<img src="images/a2.gif" name="img6" height="11" width="11" border="0">
+							<a href="One1.htm"> <font color="#999999">View more</font></a>
+							</b>
+						</font> </td>
+                    <td bgcolor="#FF9933"><br>
                     </td>
                   </tr>
                 </tbody>
               </table>
             </td>
           </tr>
-          <tr>
-            <td valign="TOP"><br>
-              <table width="443" cellspacing="0" cellpadding="0" border="1" bgcolor="white"
-
-                align="CENTER">
+                    <tr>
+            <td width="1">
+              <table style="width: 600px;" border="0">
                 <tbody>
                   <tr>
-                    <td>
-                      <table width="100%" cellspacing="0" cellpadding="2" border="0"
-
-                        bgcolor="white">
-                        <tbody>
-                          <tr valign="top" bgcolor="white" align="left">
-                            <td>
-                              <div align="left"><span class="bodytext"><font face="Verdana, Arial, Helvetica, sans-serif"><img
-
-                                      src="images/bg_arrow_grey.gif" style="width: 85px; height: 90px;"
-
-                                      border="0"></font></span></div>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </td>
-                    <td width="354">
-                      <table width="100%" cellspacing="1" cellpadding="0" border="0">
-                        <tbody>
-                          <tr>
-                            <td>
-                              <table width="100%" cellspacing="0" cellpadding="2"
-
-                                border="0" bgcolor="#ffffff">
-                                <tbody>
-                                  <tr valign="top" align="left">
-                                    <td><span class="bodytext"><b><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                            size="2" color="#330066">Walking in
-                                            Someone’s Skin</font></b><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                          size="1"><font size="2" color="#330066"><br>
-                                          </font><font color="#330066"><br>
-                                            “Understanding comes through
-                                            communication, and through
-                                            understanding we find the way to
-                                            peace.” - Ralph C. Smedley. In To
-                                            Kill a Mockingbird by Harper Lee,
-                                            the narrative follows Scout, a young
-                                            girl who is learning the ways of
-                                            society. Her father, Atticus, makes
-                                            her aware of many incidents of
-                                            prejudice in their town of
-                                            Maycomb... <br>
-                                            <br>
-                                          </font></font></span><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                        size="2"><b><font size="1"><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                              size="2"><b><font size="1"><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                    size="2"><b><font size="1"><font
-
-                                                          face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                          size="2"><b><font size="1"><font
-
-                                                                face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                                size="2"><b><font
-
-                                                                  size="1">&nbsp;
-                                                                  <img src="images/a2.gif"
-
-                                                                  name="img6" height="11"
-
-                                                                  width="11" border="0"></font></b></font></font></b></font></font></b></font><font
-
-                                                    color="#999999"> </font><font>
-                                                    <a href="One1.htm"><font color="#999999">View
-                                                        more</font></a></font></font></b></font></font></b></font><font
-
-                                        color="#CC0066"><span class="bodytext"></span></font></td>
-                                    <td width="1" bgcolor="#FF9933">
-                                      <div align="left"><span class="bodytext"><font
-
-                                            face="Verdana, Arial, Helvetica, sans-serif"><img
-
-                                              src="images/bg_arrow_grey.gif" height="1"
-
-                                              width="1" border="0"></font></span></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </td>
-            <td valign="TOP"><br>
-              <table width="443" cellspacing="0" cellpadding="0" border="1" bgcolor="white"
-
-                align="CENTER">
-                <tbody>
-                  <tr>
-                    <td>
-                      <table width="100%" cellspacing="0" cellpadding="2" border="0"
-
-                        bgcolor="white">
-                        <tbody>
-                          <tr valign="top" bgcolor="white" align="left">
-                            <td>
-                              <div align="left"><span class="bodytext"><font face="Verdana, Arial, Helvetica, sans-serif"><img
-
-                                      src="images/bg_arrow_grey.gif" style="width: 85px; height: 90px;"
-
-                                      border="0"></font></span></div>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </td>
-                    <td width="354">
-                      <table width="100%" cellspacing="1" cellpadding="0" border="0">
-                        <tbody>
-                          <tr>
-                            <td>
-                              <table width="100%" cellspacing="0" cellpadding="2"
-
-                                border="0" bgcolor="#ffffff">
-                                <tbody>
-                                  <tr valign="top" align="left">
-                                    <td><span class="bodytext"><b><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                            size="2" color="#330066">Walking in
-                                            Someone’s Skin</font></b><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                          size="1"><font size="2" color="#330066"><br>
-                                          </font><font color="#330066"><br>
-                                            “Understanding comes through
-                                            communication, and through
-                                            understanding we find the way to
-                                            peace.” - Ralph C. Smedley. In To
-                                            Kill a Mockingbird by Harper Lee,
-                                            the narrative follows Scout, a young
-                                            girl who is learning the ways of
-                                            society. Her father, Atticus, makes
-                                            her aware of many incidents of
-                                            prejudice in their town of
-                                            Maycomb... <br>
-                                            <br>
-                                          </font></font></span><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                        size="2"><b><font size="1"><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                              size="2"><b><font size="1"><font face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                    size="2"><b><font size="1"><font
-
-                                                          face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                          size="2"><b><font size="1"><font
-
-                                                                face="Verdana, Arial, Helvetica, sans-serif"
-
-                                                                size="2"><b><font
-
-                                                                  size="1">&nbsp;
-                                                                  <img src="images/a2.gif"
-
-                                                                  name="img6" height="11"
-
-                                                                  width="11" border="0"></font></b></font></font></b></font></font></b></font><font
-
-                                                    color="#999999"> </font><font>
-                                                    <a href="One1.htm"><font color="#999999">View
-                                                        more</font></a></font></font></b></font></font></b></font><font
-
-                                        color="#CC0066"><span class="bodytext"></span></font></td>
-                                    <td width="1" bgcolor="#FF9933">
-                                      <div align="left"><span class="bodytext"><font
-
-                                            face="Verdana, Arial, Helvetica, sans-serif"><img
-
-                                              src="images/bg_arrow_grey.gif" height="1"
-
-                                              width="1" border="0"></font></span></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
+                    <td bgcolor="#800000"><img src="images/bg_arrow_grey.gif" border="0"></td>
+                    
+                    <td bgcolor="white">
+                      <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#330066">
+                        It Is All Up to Fate?</font></b>
+						<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#330066">
+							<br><br>
+							The greater the obstacle, the more glory in overcoming it.” - Moliere. While this may be true, can the obstacle truly be overcomed?
+							<br><br>
+							<b>&nbsp;<img src="images/a2.gif" name="img6" height="11" width="11" border="0">
+							<a href="Two2.htm"> <font color="#999999">View more</font></a>
+							</b>
+						</font> </td>
+                    <td bgcolor="#FF9933"><br>
                     </td>
                   </tr>
                 </tbody>
@@ -465,7 +109,9 @@ function MM_swapImage() { //v3.0
           </tr>
         </tbody>
       </table>
-    </div>
+    </span>
+    <p><br>
+    </p>
     <script language="javascript">
 function NewWindow(url, title, w, h, scroll, resize)
     {
