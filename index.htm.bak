@@ -28,7 +28,7 @@ a{text-decoration:none;}
     <div align="CENTER"><img src="images/maincolorssmall.gif" style="width:100%;"><br>
       <font face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><br>
         Just my thoughts<br>
-        by Aditya Hingne</font></div>
+        by Aditya Hingne</font>
     <br>
     <span>
       <table boder="1">
@@ -198,6 +198,6 @@ a{text-decoration:none;}
     </span>
     <p><br>
     </p>
-    
+</div>    
   </body>
 </html>
