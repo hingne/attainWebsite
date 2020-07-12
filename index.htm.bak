@@ -22,7 +22,7 @@ background-size: 100% 100%;
 a{text-decoration:none;}
 -->
 </style> </head>
-  <body style="            color: black; background-color: white;" topmargin="0"
+  <body style="             color: black; background-color: white;" topmargin="0"
 
     marginwidth="0" marginheight="0" leftmargin="0">
     <div align="CENTER"><img src="images/maincolorssmall.gif" style="width:100%;"><br>
@@ -77,9 +77,9 @@ a{text-decoration:none;}
 
                           color="#330066"> <br>
                           <br>
-                          The greater the obstacle, the more glory in overcoming
-                          it.” - Moliere. While this may be true, can the
-                          obstacle truly be overcomed?&nbsp; <br>
+                          "The greater the obstacle, the more glory in
+                          overcoming it." - Moliere. While this may be true, can
+                          the obstacle truly be overcomed?&nbsp; <br>
                           <br>
                           <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
                             <a href="Two2.htm"> <font color="#999999">View more</font></a>
@@ -139,7 +139,7 @@ a{text-decoration:none;}
                           with black when she stopped. <br>
                           <br>
                           <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
-                            <a href="Three3.htm"> <font color="#999999">View
+                            <a href="four4.htm"> <font color="#999999">View
                                 more</font></a> </b> </font></font></td>
                     <td width="1%" bgcolor="#4682B4"><br>
                     </td>
@@ -153,6 +153,5 @@ a{text-decoration:none;}
     </span>
     <p><br>
     </p>
-    
   </body>
 </html>
