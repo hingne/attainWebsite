@@ -22,9 +22,9 @@ background-size: 100% 100%;
 a{text-decoration:none;}
 -->
 </style> </head>
-  <body style="         color: black; background-color: white;" topmargin="0" marginwidth="0"
+  <body style="            color: black; background-color: white;" topmargin="0"
 
-    marginheight="0" leftmargin="0">
+    marginwidth="0" marginheight="0" leftmargin="0">
     <div align="CENTER"><img src="images/maincolorssmall.gif" style="width:100%;"><br>
       <font face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><br>
         Just my thoughts<br>
@@ -38,13 +38,15 @@ a{text-decoration:none;}
               <table style="width: 100%;" border="0">
                 <tbody>
                   <tr>
-                    <td width='7%' bgcolor="#FF9933"><img src="images/bg_arrow_grey.gif" border="0"></td>
-                    <td width='90%' style="font-size:80%;" bgcolor="white"><font face="Verdana, Arial, Helvetica, sans-serif"
+                    <td width="9%" bgcolor="#FF9933"><img src="images/bg_arrow_grey.gif"
 
-                        color="#330066"><b>Walking in Someone’s Skin</b> <font
+                        border="0"></td>
+                    <td style="font-size:80%;" width="90%" bgcolor="white"><font
 
-                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066">
-                          <br>
+                        face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>Walking
+                          in Someone’s Skin</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+
+                          color="#330066"> <br>
                           <br>
                           "Understanding comes through communication, and
                           through understanding we find the way to peace." -
@@ -53,7 +55,7 @@ a{text-decoration:none;}
                           <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
                             <a href="One1.htm"> <font color="#999999">View more</font></a>
                           </b> </font></font></td>
-                    <td width='3%' bgcolor="#FF9933"><br>
+                    <td width="1%" bgcolor="#FF9933"><br>
                     </td>
                   </tr>
                 </tbody>
@@ -65,10 +67,13 @@ a{text-decoration:none;}
               <table style="width: 100%;" border="0">
                 <tbody>
                   <tr>
-                    <td width='7%' bgcolor="#800000"><img src="images/bg_arrow_grey.gif" border="0"></td>
-                    <td width='90%' style="font-size:80%;" bgcolor="white"><font face="Verdana, Arial, Helvetica, sans-serif"
+                    <td width="9%" bgcolor="#800000"><img src="images/bg_arrow_grey.gif"
 
-                        color="#330066"><b>It Is All Up to Fate</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                        border="0"></td>
+                    <td style="font-size:80%;" width="90%" bgcolor="white"><font
+
+                        face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>It
+                          Is All Up to Fate</b> <font face="Verdana, Arial, Helvetica, sans-serif"
 
                           color="#330066"> <br>
                           <br>
@@ -79,7 +84,7 @@ a{text-decoration:none;}
                           <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
                             <a href="Two2.htm"> <font color="#999999">View more</font></a>
                           </b> </font></font></td>
-                    <td width='3%' bgcolor="#800000"><br>
+                    <td width="1%" bgcolor="#800000"><br>
                     </td>
                   </tr>
                 </tbody>
@@ -91,10 +96,13 @@ a{text-decoration:none;}
               <table style="width: 100%;" border="0">
                 <tbody>
                   <tr>
-                    <td width='7%' bgcolor="#3CB371"><img src="images/bg_arrow_grey.gif" border="0"></td>
-                    <td width='90%' style="font-size:80%;" bgcolor="white"><font face="Verdana, Arial, Helvetica, sans-serif"
+                    <td width="9%" bgcolor="#3CB371"><img src="images/bg_arrow_grey.gif"
 
-                        color="#330066"><b>Stage or Screen?</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                        border="0"></td>
+                    <td style="font-size:80%;" width="90%" bgcolor="white"><font
+
+                        face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>Stage
+                          or Screen?</b> <font face="Verdana, Arial, Helvetica, sans-serif"
 
                           color="#330066"> <br>
                           <br>
@@ -104,7 +112,36 @@ a{text-decoration:none;}
                           <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
                             <a href="Three3.htm"> <font color="#999999">View
                                 more</font></a> </b> </font></font></td>
-                    <td width='3%' bgcolor="#3CB371"><br>
+                    <td width="1%" bgcolor="#3CB371"><br>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <table style="width: 100%;" border="0">
+                <tbody>
+                  <tr>
+                    <td width="9%" bgcolor="#4682B4"><img src="images/bg_arrow_grey.gif"
+
+                        border="0"></td>
+                    <td style="font-size:80%;" width="90%" bgcolor="white"><font
+
+                        face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>
+                          Behind the colors of Clarae</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+
+                          color="#330066"> <br>
+                          <br>
+                          Clarae threw the paint on the canvas in a fit of rage.
+                          She was right about to destroy her entire creation
+                          with black when she stopped. <br>
+                          <br>
+                          <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
+                            <a href="Three3.htm"> <font color="#999999">View
+                                more</font></a> </b> </font></font></td>
+                    <td width="1%" bgcolor="#4682B4"><br>
                     </td>
                   </tr>
                 </tbody>
