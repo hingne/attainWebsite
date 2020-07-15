@@ -22,182 +22,185 @@ background-size: 100% 100%;
 a{text-decoration:none;}
 -->
 </style> </head>
-  <body style="color: black; background-color: white;" topmargin="0" marginwidth="0"
+  <body style="     color: black; background-color: white;" topmargin="0" marginwidth="0"
 
     marginheight="0" leftmargin="0">
-    <div align="CENTER"><img src="images/maincolorssmall.gif" style="width:100%;"><br>
+    <div align="CENTER"><br>
       <font face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><br>
         Just my thoughts<br>
-        by Aditya Hingne</font>
-    <br>
-    <span>
-      <table boder="1">
-        <tbody>
-          <tr>
-            <td>
-              <table style="width: 100%;" border="0">
-                <tbody>
-                  <tr>
-                    <td width="9%" bgcolor="white"><img src="images/1.jpg" border="0"></td>
-                    <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
+        by Aditya Hingne</font> <br>
+      <span>
+        <table boder="1">
+          <tbody>
+            <tr>
+              <td>
+                <table style="width: 100%;" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="9%" bgcolor="white"><img src="images/1.jpg" border="0"></td>
+                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
 
-                        face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>Walking
-                          in Someone’s Skin</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>Walking
+                            in Someone’s Skin</b> <font face="Verdana, Arial, Helvetica, sans-serif"
 
-                          color="#330066"> <br>
-                          <br>
-                          "Understanding comes through communication, and
-                          through understanding we find the way to peace." -
-                          Ralph C. Smedley.&nbsp; <br>
-                          <br>
-                          <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
-                            <a href="One1.htm"> <font color="#999999">View more</font></a>
-                          </b> </font></font></td>
-                    <td width="1%" bgcolor="#FF9933"><br>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <table style="width: 100%;" border="0">
-                <tbody>
-                  <tr>
-                    <td width="9%" bgcolor="white"><img src="images/2.jpg" border="0"></td>
-                    <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
+                            color="#330066"> <br>
+                            <br>
+                            "Understanding comes through communication, and
+                            through understanding we find the way to peace." -
+                            Ralph C. Smedley.&nbsp; <br>
+                            <br>
+                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
+                              <a href="One1.htm"> <font color="#999999">View
+                                  more</font></a> </b> </font></font></td>
+                      <td width="1%" bgcolor="#FF9933"><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <!-- <td>
+                <table style="width: 100%;" border="0">                  <tbody>                    <tr>                      <td width="9%" bgcolor="white"><img src="images/5.jpg" border="0"></td>                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>                            Art for future</b> <font face="Verdana, Arial, Helvetica, sans-serif"                            color="#330066"> <br>                            <br>                            When we look at art, we slow down and we stop                            tirelessly exercising our brains, and focus on the                            now... <br>                            <br>                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
+                              <a href="five5.htm"> <font color="#999999">View                                  more</font></a> </b> </font></font></td>                      <td width="1%" bgcolor="#800080"><br>                      </td>                    </tr>                  </tbody>                </table>              </td> -->
+              <td>
+                <table style="width: 100%;" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="9%" bgcolor="white"><img src="images/7.jpg" border="0"></td>
+                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
 
-                        face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>It
-                          Is All Up to Fate</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>
+                            When the Iceberg Falls Apart</b> <font face="Verdana, Arial, Helvetica, sans-serif"
 
-                          color="#330066"> <br>
-                          <br>
-                          "The greater the obstacle, the more glory in
-                          overcoming it." - Moliere. However, can the obstacle
-                          truly be overcomed?&nbsp; <br>
-                          <br>
-                          <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
-                            <a href="Two2.htm"> <font color="#999999">View more</font></a>
-                          </b> </font></font></td>
-                    <td width="1%" bgcolor="800000"><br>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <table style="width: 100%;" border="0">
-                <tbody>
-                  <tr>
-                    <td width="9%" bgcolor="white"><img src="images/3.jpg" border="0"></td>
-                    <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
+                            color="#330066"> <br>
+                            <br>
+                            If humans were given the choice between two stories,
+                            which ones would be picked? <br>
+                            <br>
+                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
+                              <a href="seven7.htm"> <font color="#999999">View
+                                  more</font></a> </b> </font></font></td>
+                      <td width="1%" bgcolor="#3E766D"><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table style="width: 100%;" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="9%" bgcolor="white"><img src="images/2.jpg" border="0"></td>
+                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
 
-                        face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>Stage
-                          or Screen?</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>It
+                            Is All Up to Fate</b> <font face="Verdana, Arial, Helvetica, sans-serif"
 
-                          color="#330066"> <br>
-                          <br>
-                          Shakespeare's Romeo and Juliet is probably one of his
-                          most famous works with a universal theme; love. <br>
-                          <br>
-                          <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
-                            <a href="Three3.htm"> <font color="#999999">View
-                                more</font></a> </b> </font></font></td>
-                    <td width="1%" bgcolor="#3CB371"><br>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <table style="width: 100%;" border="0">
-                <tbody>
-                  <tr>
-                    <td width="9%" bgcolor="white"><img src="images/4.jpg" border="0"></td>
-                    <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
+                            color="#330066"> <br>
+                            <br>
+                            "The greater the obstacle, the more glory in
+                            overcoming it." - Moliere. However, can the obstacle
+                            truly be overcomed?&nbsp; <br>
+                            <br>
+                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
+                              <a href="Two2.htm"> <font color="#999999">View
+                                  more</font></a> </b> </font></font></td>
+                      <td width="1%" bgcolor="800000"><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table style="width: 100%;" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="9%" bgcolor="white"><img src="images/3.jpg" border="0"></td>
+                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
 
-                        face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>
-                          Behind the colors of Clarae</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>Stage
+                            or Screen?</b> <font face="Verdana, Arial, Helvetica, sans-serif"
 
-                          color="#330066"> <br>
-                          <br>
-                          Clarae threw the paint on the canvas in a fit of rage.
-                          She was right about to destroy her entire creation
-                          with black when... <br>
-                          <br>
-                          <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
-                            <a href="four4.htm"> <font color="#999999">View
-                                more</font></a> </b> </font></font></td>
-                    <td width="1%" bgcolor="#4682B4"><br>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <table style="width: 100%;" border="0">
-                <tbody>
-                  <tr>
-                    <td width="9%" bgcolor="white"><img src="images/6.jpg" border="0"></td>
-                    <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
+                            color="#330066"> <br>
+                            <br>
+                            Shakespeare's Romeo and Juliet is probably one of
+                            his most famous works with a universal theme; love.
+                            <br>
+                            <br>
+                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
+                              <a href="Three3.htm"> <font color="#999999">View
+                                  more</font></a> </b> </font></font></td>
+                      <td width="1%" bgcolor="#3CB371"><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table style="width: 100%;" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="9%" bgcolor="white"><img src="images/4.jpg" border="0"></td>
+                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
 
-                        face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>
-                          What and How</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>
+                            Behind the colors of Clarae</b> <font face="Verdana, Arial, Helvetica, sans-serif"
 
-                          color="#330066"> <br>
-                          <br>
-                          Whatever place we desire to end up, we view it as a
-                          form of paradise or the ultimate success story. <br>
-                          <br>
-                          <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
-                            <a href="six6.htm"> <font color="#999999">View more</font></a>
-                          </b> </font></font></td>
-                    <td width="1%" bgcolor="#A0522D"><br>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <table style="width: 100%;" border="0">
-                <tbody>
-                  <tr>
-                    <td width="9%" bgcolor="white"><img src="images/5.jpg" border="0"></td>
-                    <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
+                            color="#330066"> <br>
+                            <br>
+                            Clarae threw the paint on the canvas in a fit of
+                            rage. She was right about to destroy her entire
+                            creation with black when... <br>
+                            <br>
+                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
+                              <a href="four4.htm"> <font color="#999999">View
+                                  more</font></a> </b> </font></font></td>
+                      <td width="1%" bgcolor="#4682B4"><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table style="width: 100%;" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="9%" bgcolor="white"><img src="images/6.jpg" border="0"></td>
+                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
 
-                        face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>
-                          Art for future</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>
+                            What and How</b> <font face="Verdana, Arial, Helvetica, sans-serif"
 
-                          color="#330066"> <br>
-                          <br>
-                          When we look at art, we slow down and we stop
-                          tirelessly exercising our brains, and focus on the
-                          now... <br>
-                          <br>
-                          <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
-                            <a href="five5.htm"> <font color="#999999">View
-                                more</font></a> </b> </font></font></td>
-                    <td width="1%" bgcolor="#800080"><br>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </span>
-    <p><br>
-    </p>
-</div>    
+                            color="#330066"> <br>
+                            <br>
+                            Whatever place we desire to end up, we view it as a
+                            form of paradise or the ultimate success story. <br>
+                            <br>
+                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
+                              <a href="six6.htm"> <font color="#999999">View
+                                  more</font></a> </b> </font></font></td>
+                      <td width="1%" bgcolor="#A0522D"><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <p><br>
+      </p>
+    </div>
+    
   </body>
 </html>
