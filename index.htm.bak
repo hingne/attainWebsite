@@ -22,9 +22,9 @@ background-size: 100% 100%;
 a{text-decoration:none;}
 -->
 </style> </head>
-  <body style="          color: black; background-color: white;" topmargin="0" marginwidth="0"
+  <body style="           color: black; background-color: white;" topmargin="0"
 
-    marginheight="0" leftmargin="0">
+    marginwidth="0" marginheight="0" leftmargin="0">
     <div align="CENTER"><br>
       <font face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><br>
         Just my thoughts<br>
@@ -120,17 +120,21 @@ a{text-decoration:none;}
                 <table style="width: 100%;" border="0">
                   <tbody>
                     <tr>
-                      <td width="9%" bgcolor="white"><img src="images/3.jpg" border="0"></td>
-                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font face="Verdana, Arial, Helvetica, sans-serif" color="#330066">
-											<b>This Is Not Meat</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                      <td width="9%" bgcolor="white"><img src="images/9.jpg"
+
+                          border="0"></td>
+                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
+
+                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066">
+                          <b>This Is Not Meat</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+
                             color="#330066"> <br>
                             <br>
-                            Shakespeare's Romeo and Juliet is probably one of
-                            his most famous works with a universal theme; love.
-                            <br>
+                            I have never consumed meat in my life. This was
+                            never a problem for me. <br>
                             <br>
                             <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
-                              <a href="Three3.htm"> <font color="#999999">View
+                              <a href="nine9.htm"> <font color="#999999">View
                                   more</font></a> </b> </font></font></td>
                       <td width="1%" bgcolor="#3CB371"><br>
                       </td>
@@ -138,7 +142,7 @@ a{text-decoration:none;}
                   </tbody>
                 </table>
               </td>
-            </tr>            
+            </tr>
             <tr>
               <td>
                 <table style="width: 100%;" border="0">
@@ -252,6 +256,5 @@ a{text-decoration:none;}
       <p><br>
       </p>
     </div>
-    
   </body>
 </html>
