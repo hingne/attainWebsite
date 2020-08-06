@@ -22,7 +22,7 @@ background-size: 100% 100%;
 a{text-decoration:none;}
 -->
 </style> </head>
-  <body style="           color: black; background-color: white;" topmargin="0"
+  <body style="                      color: black; background-color: white;" topmargin="0"
 
     marginwidth="0" marginheight="0" leftmargin="0">
     <div align="CENTER"><br>
@@ -42,7 +42,7 @@ a{text-decoration:none;}
                       <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
 
                           face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>Walking
-                            in Someone’s Skin</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                            in Someone's Skin</b> <font face="Verdana, Arial, Helvetica, sans-serif"
 
                             color="#330066"> <br>
                             <br>
@@ -61,8 +61,6 @@ a{text-decoration:none;}
               </td>
             </tr>
             <tr>
-              <!-- <td>
-                <table style="width: 100%;" border="0">                  <tbody>                    <tr>                      <td width="9%" bgcolor="white"><img src="images/5.jpg" border="0"></td>                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>                            Art for future</b> <font face="Verdana, Arial, Helvetica, sans-serif"                            color="#330066"> <br>                            <br>                            When we look at art, we slow down and we stop                            tirelessly exercising our brains, and focus on the                            now... <br>                            <br>                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">                              <a href="five5.htm"> <font color="#999999">View                                  more</font></a> </b> </font></font></td>                      <td width="1%" bgcolor="#800080"><br>                      </td>                    </tr>                  </tbody>                </table>              </td> -->
               <td>
                 <table style="width: 100%;" border="0">
                   <tbody>
@@ -82,6 +80,33 @@ a{text-decoration:none;}
                               <a href="seven7.htm"> <font color="#999999">View
                                   more</font></a> </b> </font></font></td>
                       <td width="1%" bgcolor="#3E766D"><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table style="width: 100%;" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="9%" bgcolor="white"><img src="images/8.jpg" border="0"></td>
+                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
+
+                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>
+                            Shooting an Elephant</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+
+                            color="#330066"> <br>
+                            <br>
+                            George Orwell's "Shooting an Elephant" : Imperialism
+                            is a system of power that is unnecessary and
+                            unwanted. <br>
+                            <br>
+                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
+                              <a href="eigth8.htm"> <font color="#999999">View
+                                  more</font></a> </b> </font></font></td>
+                      <td width="1%" bgcolor="#4682B4"><br>
                       </td>
                     </tr>
                   </tbody>
@@ -120,9 +145,7 @@ a{text-decoration:none;}
                 <table style="width: 100%;" border="0">
                   <tbody>
                     <tr>
-                      <td width="9%" bgcolor="white"><img src="images/9.jpg"
-
-                          border="0"></td>
+                      <td width="9%" bgcolor="white"><img src="images/9.jpg" border="0"></td>
                       <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
 
                           face="Verdana, Arial, Helvetica, sans-serif" color="#330066">
@@ -135,33 +158,6 @@ a{text-decoration:none;}
                             <br>
                             <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
                               <a href="nine9.htm"> <font color="#999999">View
-                                  more</font></a> </b> </font></font></td>
-                      <td width="1%" bgcolor="#3CB371"><br>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <table style="width: 100%;" border="0">
-                  <tbody>
-                    <tr>
-                      <td width="9%" bgcolor="white"><img src="images/3.jpg" border="0"></td>
-                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
-
-                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>Stage
-                            or Screen?</b> <font face="Verdana, Arial, Helvetica, sans-serif"
-
-                            color="#330066"> <br>
-                            <br>
-                            Shakespeare's Romeo and Juliet is probably one of
-                            his most famous works with a universal theme; love.
-                            <br>
-                            <br>
-                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
-                              <a href="Three3.htm"> <font color="#999999">View
                                   more</font></a> </b> </font></font></td>
                       <td width="1%" bgcolor="#3CB371"><br>
                       </td>
@@ -228,22 +224,48 @@ a{text-decoration:none;}
                 <table style="width: 100%;" border="0">
                   <tbody>
                     <tr>
-                      <td width="9%" bgcolor="white"><img src="images/8.jpg" border="0"></td>
+                      <td width="9%" bgcolor="white"><img src="images/3.jpg" border="0"></td>
                       <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
 
-                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>
-                            Shooting an Elephant</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>Stage
+                            or Screen?</b> <font face="Verdana, Arial, Helvetica, sans-serif"
 
                             color="#330066"> <br>
                             <br>
-                            George Orwell's "Shooting an Elephant" : Imperialism
-                            is a system of power that is unnecessary and
-                            unwanted. <br>
+                            Shakespeare's Romeo and Juliet is probably one of
+                            his most famous works with a universal theme; love.
+                            <br>
                             <br>
                             <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
-                              <a href="eigth8.htm"> <font color="#999999">View
+                              <a href="Three3.htm"> <font color="#999999">View
                                   more</font></a> </b> </font></font></td>
-                      <td width="1%" bgcolor="#4682B4"><br>
+                      <td width="1%" bgcolor="#3Cd578"><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table style="width: 100%;" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="9%" bgcolor="white"><img src="images/11.jpg" border="0"></td>
+                      <td style="font-size:80%; padding: 10px;" width="90%" bgcolor="white"><font
+
+                          face="Verdana, Arial, Helvetica, sans-serif" color="#330066"><b>Basic
+                            Income I-Search</b> <font face="Verdana, Arial, Helvetica, sans-serif"
+
+                            color="#330066"> <br>
+                            <br>
+                            Does the government have enough money to give its
+                            pay its citizens a basic income? <br>
+                            <br>
+                            <b>&nbsp;<img src="images/a2.gif" name="img6" border="0">
+                              <a href="ten10.htm"> <font color="#999999">View
+                                  more</font></a> </b> </font></font></td>
+                      <td width="1%" bgcolor="#FF9933"><br>
                       </td>
                     </tr>
                   </tbody>
